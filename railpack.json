@@ -1,0 +1,3 @@
+{
+    "startCommand": "gunicorn farmer_backend.wsgi:application"
+}
